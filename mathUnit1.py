@@ -92,7 +92,6 @@ def fxn(fxo, x):
 print("METHOD No. : ")
 mn = int(input())
 if mn == 1:
-    print("\n#######INITIATING BISECTION METHOD##############\n")
     bisection(fxo)
 elif mn == 2:
     regula(fxo)
