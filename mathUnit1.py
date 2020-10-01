@@ -2,7 +2,9 @@
 #   - -> for variable, always use small alphabet 'x'
 #   -> for any mathematical operation, python language should be used like: -
 #        -> x^y should be written as xy
-#        -> for exponential, trigonometric, or logarithmic function, we should write as 'math.ex', 'math.log(x,base)' , math.sin(x)
+#        -> for exponential, 'math.ex'
+#        -> for trigonometric,  math.sin(x)
+#        ->for logarithmic function,   'math.log(x,base)'
 
 import math
 
