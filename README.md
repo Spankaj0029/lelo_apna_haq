@@ -4,5 +4,5 @@ Tips for using mathsUnit1.py: -
   -> for any mathematical operation, python language should be used like: -
       -> x^y should be written as x**y
       -> for exponential, trigonometric, or logarithmic function, we should write as 'math.e**x', 'math.log(x,base)' , math.sin(x)
-      college open kra do yrr
+   \n   college open kra do yrr
       lene ke liye
